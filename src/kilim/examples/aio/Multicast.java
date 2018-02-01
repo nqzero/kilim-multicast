@@ -19,7 +19,7 @@
  * THE SOFTWARE.
  */
 
-package kilim.examples;
+package kilim.examples.aio;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
